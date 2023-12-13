@@ -35,3 +35,7 @@ public class Solution {
    
     }
 }
+//Sample input: 3
+//sample output: Weird 
+//Sample input: 24
+//Sample output: Not Weird
